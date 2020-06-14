@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tennis-ladder/precache-manifest.e443e73435d05dacbaa49e6b55ceb53b.js"
+  "/tennis-ladder/precache-manifest.77748c7a83c281e0f873a8d953721677.js"
 );
 
 self.addEventListener('message', (event) => {

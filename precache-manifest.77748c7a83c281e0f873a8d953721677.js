@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9ba39a5cf0c1f3403bb11b731b1f8e6a",
+    "revision": "0eff4f7fb5530ada77ec1abb331e2510",
     "url": "/tennis-ladder/index.html"
   },
   {
-    "revision": "2367d7f0c0fb2372d019",
+    "revision": "74405d382ce0b8b21a16",
     "url": "/tennis-ladder/static/css/main.ee5f1c4f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tennis-ladder/static/js/2.1d29ebd5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2367d7f0c0fb2372d019",
-    "url": "/tennis-ladder/static/js/main.7d726bf3.chunk.js"
+    "revision": "74405d382ce0b8b21a16",
+    "url": "/tennis-ladder/static/js/main.06010bbe.chunk.js"
   },
   {
     "revision": "06d05258df5393c3d2c3",

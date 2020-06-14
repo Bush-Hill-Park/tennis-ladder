@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tennis-ladder/static/css/main.ee5f1c4f.chunk.css",
-    "main.js": "/tennis-ladder/static/js/main.7d726bf3.chunk.js",
-    "main.js.map": "/tennis-ladder/static/js/main.7d726bf3.chunk.js.map",
+    "main.js": "/tennis-ladder/static/js/main.06010bbe.chunk.js",
+    "main.js.map": "/tennis-ladder/static/js/main.06010bbe.chunk.js.map",
     "runtime-main.js": "/tennis-ladder/static/js/runtime-main.ee842800.js",
     "runtime-main.js.map": "/tennis-ladder/static/js/runtime-main.ee842800.js.map",
     "static/js/2.1d29ebd5.chunk.js": "/tennis-ladder/static/js/2.1d29ebd5.chunk.js",
     "static/js/2.1d29ebd5.chunk.js.map": "/tennis-ladder/static/js/2.1d29ebd5.chunk.js.map",
     "index.html": "/tennis-ladder/index.html",
-    "precache-manifest.e443e73435d05dacbaa49e6b55ceb53b.js": "/tennis-ladder/precache-manifest.e443e73435d05dacbaa49e6b55ceb53b.js",
+    "precache-manifest.77748c7a83c281e0f873a8d953721677.js": "/tennis-ladder/precache-manifest.77748c7a83c281e0f873a8d953721677.js",
     "service-worker.js": "/tennis-ladder/service-worker.js",
     "static/css/main.ee5f1c4f.chunk.css.map": "/tennis-ladder/static/css/main.ee5f1c4f.chunk.css.map",
     "static/js/2.1d29ebd5.chunk.js.LICENSE.txt": "/tennis-ladder/static/js/2.1d29ebd5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ee842800.js",
     "static/js/2.1d29ebd5.chunk.js",
     "static/css/main.ee5f1c4f.chunk.css",
-    "static/js/main.7d726bf3.chunk.js"
+    "static/js/main.06010bbe.chunk.js"
   ]
 }
